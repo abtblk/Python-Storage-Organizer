@@ -16,12 +16,10 @@ Python 3.x
 Installation
 Clone this repository:
 
-bash
 git clone https://github.com/abtblk/Python-Storage-Organizer.git
 cd Python-Storage-Organizer
 Run the script:
 
-bash
 python bin_manager.py
 Usage
 Once the script is running, you can use the following commands:
