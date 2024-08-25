@@ -1,5 +1,5 @@
-#Interactive Bin Manager
-Welcome to the Interactive Bin Manager! This script allows you to manage items within virtual bins through a command-line interface. It supports adding, transferring, finding, and removing items with specific quantities, and it saves your data persistently in a JSON file.
+Python Storage Organizer
+Welcome to the Python Storage Organizer! This script allows you to manage items within virtual bins through a command-line interface. It supports adding, transferring, finding, and removing items with specific quantities, and it saves your data persistently in a JSON file.
 
 Features
 Add Items with Quantities: Add items to a bin, specifying quantities.
@@ -17,13 +17,11 @@ Installation
 Clone this repository:
 
 bash
-Copy code
-git clone https://github.com/yourusername/bin-manager.git
-cd bin-manager
+git clone https://github.com/abtblk/Python-Storage-Organizer.git
+cd Python-Storage-Organizer
 Run the script:
 
 bash
-Copy code
 python bin_manager.py
 Usage
 Once the script is running, you can use the following commands:
