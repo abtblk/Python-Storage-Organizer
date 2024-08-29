@@ -24,6 +24,7 @@ Clone this repository:
 
 git clone https://github.com/abtblk/Python-Storage-Organizer.git
 cd Python-Storage-Organizer
+
 Run the script:
 
 python bin_manager.py
