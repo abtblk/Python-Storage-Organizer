@@ -73,7 +73,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 > YOU MUST EITHER RUN IN VSCODE OR ADMINISTRATOR COMMAND PROMPT YOU CAN LOOK THROUGH THE CODE IF YOU WANT!
 
 > [!IMPORTANT]
-> PLEASE PLEASE PLEASE CHECH IF THERE IS ALREADY AN ISSUE LISTED!! THANK YOU!!!!!
+> PLEASE PLEASE PLEASE CHECK IF THERE IS ALREADY AN ISSUE LISTED!! THANK YOU!!!!!
 
 ### License
 This project is open source and available under the MIT License.
