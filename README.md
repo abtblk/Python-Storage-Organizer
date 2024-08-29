@@ -1,6 +1,12 @@
 # Python Storage Organizer
 ### Welcome to the Python Storage Organizer! This script allows you to manage items within virtual bins through a command-line interface. It supports adding, transferring, finding, and removing items with specific quantities, and it saves your data persistently in a JSON file.
 
+> [!NOTE]
+> YOU MUST EITHER RUN IN VSCODE OR ADMINISTRATOR COMMAND PROMPT YOU CAN LOOK THROUGH THE CODE IF YOU WANT!
+
+> [!IMPORTANT]
+> PLEASE PLEASE PLEASE CHECK IF THERE IS ALREADY AN ISSUE LISTED!! THANK YOU!!!!!
+
 ### Features
 Add Items with Quantities: Add items to a bin, specifying quantities.
 Transfer Items: Move items from one bin to another.
@@ -68,12 +74,6 @@ Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request with your changes.
 
 (You can also just download the .py file and run it.)
-
-> [!NOTE]
-> YOU MUST EITHER RUN IN VSCODE OR ADMINISTRATOR COMMAND PROMPT YOU CAN LOOK THROUGH THE CODE IF YOU WANT!
-
-> [!IMPORTANT]
-> PLEASE PLEASE PLEASE CHECK IF THERE IS ALREADY AN ISSUE LISTED!! THANK YOU!!!!!
 
 ### License
 This project is open source and available under the MIT License.
