@@ -26,29 +26,29 @@ python bin_manager.py
 Once the script is running, you can use the following commands:
 
 Add Items: -a BIN ITEM1 #QTY, ITEM2 #QTY,...
-
 Example: -a bin1 apple #3, banana #2
+
 Transfer Items: -t FROM_BIN TO_BIN ITEM #QTY
-
 Example: -t bin1 bin2 apple #2
+
 Remove Items: -r ITEM #QTY BIN
-
 Example: -r apple #1 bin2
+
 Find Items: -f ITEM
-
 Example: -f apple
+
 List All Items: -l
-
 Example: -l
+
 List Available Items: --list-available
-
 Example: --list-available
+
 Clear Screen: -c
-
 Example: -c
-Help Command: -h
 
+Help Command: -h
 Example: -h
+
 Exit Application: -q or --quit
 
 Example: -q
